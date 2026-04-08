@@ -1,4 +1,4 @@
-CREATE TABLE employees_schema2 (
+CREATE TABLE employees_schema1 (
     emp_id NUMBER NOT NULL,
     first_name VARCHAR2(50),
     last_name VARCHAR2(50),
