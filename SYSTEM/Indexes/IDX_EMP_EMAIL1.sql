@@ -1,2 +1,2 @@
-CREATE UNIQUE INDEX idx_emp_email1
+CREATE UNIQUE INDEX idx_emp_email
 ON manus (email);
