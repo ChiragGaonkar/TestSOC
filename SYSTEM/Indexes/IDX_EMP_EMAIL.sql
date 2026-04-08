@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "SYSTEM".idx_emp_email ON "SYSTEM".manus(email);
